@@ -1,0 +1,13 @@
+.home_container{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.home_title_fnt{
+    font-family: 'Quicksand';
+    font-size: 2rem;
+}
+

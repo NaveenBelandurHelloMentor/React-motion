@@ -1,0 +1,21 @@
+.base_container{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.base_fnt{
+    padding: 0.8rem;
+  border-bottom: 1px solid white;
+}
+
+
+.base_list_container{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap:1rem;
+}
